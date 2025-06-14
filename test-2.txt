@@ -1,1 +1,2 @@
-test2 in test-branch-2
+test2 in test-branch-conflict
+some other change
