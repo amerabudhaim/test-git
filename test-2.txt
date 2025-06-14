@@ -1,1 +1,4 @@
 test2 in test-branch-2 from master
+test2 in test-branch-conflict
+some other change
+changes has been compromised 
